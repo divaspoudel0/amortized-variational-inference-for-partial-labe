@@ -1,55 +1,58 @@
 {
   "schema_version": 2,
-  "title": "chat_bc183ded-6e9c-47ee-9bc7-e05e965ff7a2",
+  "title": "Reproduction: Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation",
   "emoji": "🎯",
-  "space_id": "divaspoudel/repro-amortized-variational-inference-for-partial-label-learning-a-probabilistic-approach-to-lab",
+  "space_id": "divaspoudel/repro-vip-icml2026",
   "paper": null,
-  "tags": [],
-  "updated_at": "2026-07-27T04:13:07+00:00",
+  "tags": [
+    "icml2026-repro",
+    "paper-KODJBT02ux"
+  ],
+  "updated_at": "2026-07-27T04:48:57+00:00",
   "root": {
     "slug": "index",
-"title": "Reproduction: Amortized Variational Inference for Partial-Label Learning",
+    "title": "Reproduction: Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation",
     "file": "pages/index.md",
     "children": [
       {
         "slug": "executive-summary",
-        "title": "Executive summary",
+        "title": "Executive Summary",
         "file": "pages/executive-summary/page.md",
         "children": []
       },
       {
         "slug": "claim-1-dirichlet-variational-distribution-posterior",
-        "title": "Claim 1: Dirichlet variational distribution posterior",
+        "title": "Claim 1: Dirichlet Variational Distribution Posterior",
         "file": "pages/claim-1-dirichlet-variational-distribution-posterior/page.md",
         "children": []
       },
       {
         "slug": "claim-2-cvae-max-entropy-prior",
-        "title": "Claim 2: CVAE + max-entropy prior",
+        "title": "Claim 2: CVAE + Maximum-Entropy Prior",
         "file": "pages/claim-2-cvae-max-entropy-prior/page.md",
         "children": []
       },
       {
         "slug": "claim-3-three-phase-training",
-        "title": "Claim 3: Three-phase training",
+        "title": "Claim 3: Three-Phase Training",
         "file": "pages/claim-3-three-phase-training/page.md",
         "children": []
       },
       {
         "slug": "claim-4-real-world-dataset-results",
-        "title": "Claim 4: Real-world dataset results",
+        "title": "Claim 4: Real-World Dataset Results",
         "file": "pages/claim-4-real-world-dataset-results/page.md",
         "children": []
       },
       {
         "slug": "claim-5-synthetic-benchmark-results",
-        "title": "Claim 5: Synthetic benchmark results",
+        "title": "Claim 5: Synthetic Benchmark Results",
         "file": "pages/claim-5-synthetic-benchmark-results/page.md",
         "children": []
       },
       {
         "slug": "claim-6-ablation-study",
-        "title": "Claim 6: Ablation study",
+        "title": "Claim 6: Ablation Study - Markov Equivalence",
         "file": "pages/claim-6-ablation-study/page.md",
         "children": []
       },
@@ -61,15 +64,30 @@
       }
     ]
   },
-  "traces": [],
+  "traces": [
+    {
+      "id": "opencode",
+      "title": "Reproduction session",
+      "provider": "Agent",
+      "model": null,
+      "started_at": null,
+      "ended_at": null,
+      "duration_ms": null,
+      "event_count": 18210,
+      "turn_count": 0,
+      "source_available": true,
+      "attached_at": "2026-07-27T04:45:41+00:00",
+      "index_file": "traces/opencode/index.json"
+    }
+  ],
   "workspace": {
     "file": "workspace.json",
     "file_count": 0,
     "total_size": 0,
-    "bucket_id": null
+    "bucket_id": "divaspoudel/repro-vip-icml2026-artifacts"
   },
-  "agent_view_tokens": 436,
-  "trace_view_tokens": 10,
+  "agent_view_tokens": 872,
+  "trace_view_tokens": 162206,
   "workspace_view_tokens": 8,
-  "revision": "48e3a6f46dd284219b39"
+  "revision": "081a643dd58e211a4c6d"
 }

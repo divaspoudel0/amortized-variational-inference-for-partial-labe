@@ -1,6 +1,19 @@
 {
-  "space_id": "divaspoudel/repro-amortized-variational-inference-for-partial-label-learning-a-probabilistic-approach-to-lab",
+  "space_id": "divaspoudel/repro-vip-icml2026",
   "emoji": "🎯",
   "created_at": "2026-07-27T04:10:25+00:00",
-  "last_page": "conclusion"
+  "last_page": "executive-summary",
+  "tags": [
+    "icml2026-repro",
+    "paper-KODJBT02ux"
+  ],
+  "private": false,
+  "repos_public": false,
+  "embed_content": false,
+  "trace_dataset": "divaspoudel/repro-vip-icml2026-traces",
+  "artifacts_bucket": "divaspoudel/repro-vip-icml2026-artifacts",
+  "workspace_bucket": "divaspoudel/repro-vip-icml2026-artifacts",
+  "trace_publication": "private",
+  "workspace_publication": "private",
+  "local_dashboards": {}
 }
