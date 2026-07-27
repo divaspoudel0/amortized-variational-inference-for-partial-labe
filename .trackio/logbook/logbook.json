@@ -2,13 +2,13 @@
   "schema_version": 2,
   "title": "Reproduction: Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation",
   "emoji": "🎯",
-  "space_id": "divaspoudel/repro-amortized-variational-inference-for-partial-label-learning-a-probabilistic-approach-to-lab",
+  "space_id": "divaspoudel/repro-vip-icml2026",
   "paper": null,
   "tags": [
     "icml2026-repro",
     "paper-KODJBT02ux"
   ],
-  "updated_at": "2026-07-27T04:47:07+00:00",
+  "updated_at": "2026-07-27T04:48:57+00:00",
   "root": {
     "slug": "index",
     "title": "Reproduction: Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation",
@@ -73,7 +73,7 @@
       "started_at": null,
       "ended_at": null,
       "duration_ms": null,
-      "event_count": 18029,
+      "event_count": 18210,
       "turn_count": 0,
       "source_available": true,
       "attached_at": "2026-07-27T04:45:41+00:00",
@@ -84,10 +84,10 @@
     "file": "workspace.json",
     "file_count": 0,
     "total_size": 0,
-    "bucket_id": null
+    "bucket_id": "divaspoudel/repro-vip-icml2026-artifacts"
   },
   "agent_view_tokens": 872,
-  "trace_view_tokens": 160561,
+  "trace_view_tokens": 162206,
   "workspace_view_tokens": 8,
-  "revision": "84992bafdc9222cdc22e"
+  "revision": "081a643dd58e211a4c6d"
 }

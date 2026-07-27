@@ -57,4 +57,5 @@ python reproduce_vipll.py
 ## Logbook
 
 The reproduction logbook is published at:
-https://huggingface.co/spaces/divaspoudel/repro-amortized-variational-inference-for-partial-label-learning-a-probabilistic-approach-to-lab
+https://huggingface.co/spaces/divaspoudel/repro-vip-icml2026
+https://divaspoudel-repro-vip-icml2026.static.hf.space/
