@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "title": "chat_bc183ded-6e9c-47ee-9bc7-e05e965ff7a2",
+  "emoji": "🎯",
+  "space_id": "divaspoudel/repro-amortized-variational-inference-for-partial-label-learning-a-probabilistic-approach-to-lab",
+  "paper": null,
+  "tags": [],
+  "updated_at": "2026-07-27T04:13:07+00:00",
+  "root": {
+    "slug": "index",
+"title": "Reproduction: Amortized Variational Inference for Partial-Label Learning",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "executive-summary",
+        "title": "Executive summary",
+        "file": "pages/executive-summary/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-dirichlet-variational-distribution-posterior",
+        "title": "Claim 1: Dirichlet variational distribution posterior",
+        "file": "pages/claim-1-dirichlet-variational-distribution-posterior/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-cvae-max-entropy-prior",
+        "title": "Claim 2: CVAE + max-entropy prior",
+        "file": "pages/claim-2-cvae-max-entropy-prior/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3-three-phase-training",
+        "title": "Claim 3: Three-phase training",
+        "file": "pages/claim-3-three-phase-training/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-4-real-world-dataset-results",
+        "title": "Claim 4: Real-world dataset results",
+        "file": "pages/claim-4-real-world-dataset-results/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-5-synthetic-benchmark-results",
+        "title": "Claim 5: Synthetic benchmark results",
+        "file": "pages/claim-5-synthetic-benchmark-results/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-6-ablation-study",
+        "title": "Claim 6: Ablation study",
+        "file": "pages/claim-6-ablation-study/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "traces": [],
+  "workspace": {
+    "file": "workspace.json",
+    "file_count": 0,
+    "total_size": 0,
+    "bucket_id": null
+  },
+  "agent_view_tokens": 436,
+  "trace_view_tokens": 10,
+  "workspace_view_tokens": 8,
+  "revision": "48e3a6f46dd284219b39"
+}
